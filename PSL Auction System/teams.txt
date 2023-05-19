@@ -1,0 +1,6 @@
+Lahore Qalandars,lqalandars,secret123
+Karachi Kings,kkings,pa55word
+Multan Sultans,msultans,123456
+Islamabad United,iunited,pass123
+Peshawar Zalmi,pzalmi,zalmi123
+Quetta Gladiators,qgladiators,qu3tt2021
